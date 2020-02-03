@@ -1,5 +1,6 @@
 # Ricardo Ariel Pelais Fernandes
-Desenvolvedor Web - Junior / Front-end e Back-end.
+Analista de negócios Jr.
+Desenvolvedor - Junior / Front-end e Back-end.
 
 :house:    Marilia - São Paulo <br>
 :iphone:   (14) 99732 - 1063 <br>
