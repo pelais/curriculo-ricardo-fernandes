@@ -24,17 +24,17 @@ Analista de negócios Jr. – Área de serviços
 Suporte de sistemas e programação
   * Responsável pelo atendimento do sistema do Bradesco PagFrotas, CEGWIN BRADESCO e ABASE DESPACHANTE junto do pessoal da filial em São Paulo. Ajudando na programação dos sistemas, efetuando as devidas inclusões solicitadas pelos clientes. Também responsável pelos testes das aplicações para correção de eventuais bugs e erros.
 
-  * (Setembro de 2014 -  Maio de 2015) <br>
+* (Setembro de 2014 -  Maio de 2015) <br>
 **Grupo Toledo – Usina Ibéria** -
 Suporte de sistemas e programação
   * Responsável pelo atendimento aos clientes internos, pela manutenção e segurança das informações relacionadas aos servidores, tendo como alvo a melhoria na velocidade e tráfego da informação, auxiliando a coordenação nos projetos envolvidos nas áreas da empresa, e dando o suporte necessário em toda infraestrutura tecnológica e sistêmica que a empresa possui. Mantendo também as devidas manutenções preventivas dos computadores e periféricos.  
 
-  * (Maio de 2014 -  Setembro de 2014) <br>
+* (Maio de 2014 -  Setembro de 2014) <br>
 **SE7I – Soluções Especiais em Tecnologia da Informação** -
 Estagiário/Assistente de Suporte
   * Responsável em dar suporte do sistema aos clientes, visando o melhoramento das ferramentas administrativas e também analisando os eventuais problemas que o sistema poderá ter no processo de uso, participando também das várias implantações do sistema.   
 
-    * (Fevereiro de 2013 -  Abril de 2014) <br>
+* (Fevereiro de 2013 -  Abril de 2014) <br>
 **Raízen S/A** -
 Faturista/Balanceiro
   * Responsável em efetuar pesagens de caminhões de cana-de-açúcar, pesagem de produtos acabados, gerar liberações de transportes e máquinas e também atendimento aos fornecedores com pró-atividade em equipe.  
