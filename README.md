@@ -53,11 +53,6 @@ Faturista/Balanceiro
 * Inglês suficiente para ler e entender.
 * Atualmente estudante dos vários Bootcamp's da [Rocketseat](https://rocketseat.com.br/)
 
-
-## Projetos
-* [Site Pessoal](https://davidallysson.github.io/)
-* [Engecall](https://davidallysson.github.io/Engecall)
-
 ## Redes Sociais
 *  [Facebook](https://www.facebook.com/profile.php?id=100002005020517)
 *  [Instagram](https://www.instagram.com/pelais.fernandes/)
