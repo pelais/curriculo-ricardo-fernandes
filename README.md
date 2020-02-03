@@ -14,7 +14,7 @@ Incompleta em 2016 - 3º ano.
 
 
 ## Experência Profissional
-* (setembro de 2018 -  Até o momento) <br>
+* (Setembro de 2018 -  Até o momento) <br>
 **Onclick Sistemas** -
 Analista de negócios Jr. – Área de serviços
   * Atualmente trabalho no setor de serviços da empresa. Responsável pelo desenvolvimento de relatórios e etiquetas personalizadas, disponibilizadas no sistema. Também responsável pelas parametrizações de serviços adquiridos pelos clientes (Configuração Bancária, Implantação e Parametrização SAT/NFCe, Inclusão de CNPJ e etc.), tendo como base uma melhoria continua na regra de negócio.
@@ -51,7 +51,7 @@ Faturista/Balanceiro
 * Curso Visual Studio VB.net  (2015) – FEMA – Assis SP
 * Lógica de Programação.
 * Inglês suficiente para ler e entender.
-* Atualmente estudante dos vários Bootcamp's da Rocketseat[Rocketseat](https://rocketseat.com.br/)
+* Atualmente estudante dos vários Bootcamp's da [Rocketseat](https://rocketseat.com.br/)
 
 
 ## Projetos
