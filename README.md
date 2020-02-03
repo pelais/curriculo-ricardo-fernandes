@@ -61,7 +61,6 @@ Faturista/Balanceiro
 ## Informações Adicionais
 * Serviço Obrigatório (Exército Brasileiro - EB) no ano de 2011.
 
-<br><br>
+Coloco-me a disposição para entrevistas e demais procedimentos que fizerem necessários, ocasião em que poderei fornecer maiores informações sobre meu perfil profissional.
 
-## Me ajude!
-Encontrou algum erro nas informações? Sentiu falta de algo? Abre uma issue! <br>
+<br><br>
