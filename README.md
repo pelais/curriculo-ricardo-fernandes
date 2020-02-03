@@ -1,13 +1,15 @@
 # Ricardo Ariel Pelais Fernandes
-Analista de negócios Jr. <br>
-Desenvolvedor - Junior / Front-end e Back-end. <br>
 
-:house:    Marilia - São Paulo <br>
-:iphone:   (14) 99732 - 1063 <br>
+:house:    Marília - São Paulo <br>
+:iphone:   (14) 99732-1063 <br>
 :envelope:  pelais.fernandes@gmail.com
 
 Meu nome é Ricardo, sou um profissional analítico e focado em resultados, metas e interações com equipes.
-Tenho trabalhado há alguns anos com Tecnologia .NET, Delphi e atualmente estudando React Native, ReactJS e NodeJS. Conhecimentos também de Banco de dados PostrgreSQL, Firebird e Fast Report. Boas práticas de desenvolvimento com GIT, regras de negócio e análise de requisitos. Nas horas vagas me arrisco no violão.
+Tenho trabalhado há alguns anos com Tecnologia .NET, Delphi e atualmente estudando React Native, ReactJS e NodeJS. Conhecimentos também de Banco de dados PostrgreSQL, Firebird e Fast Report. Boas práticas de desenvolvimento com GIT, regras de negócio e análise de requisitos. Nas horas vagas me arrisco no violão e Dota 2.
+
+## Área de interesse
+Analista de negócios Jr. <br>
+Desenvolvedor - Jr. / Front-end e Back-end. <br>
 
 ## Formação
 Fundação Educacional Município de Assis - FEMA - Superior em Tecnologia Análise e desenvolvimento de Sistemas <br>
