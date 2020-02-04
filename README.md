@@ -7,7 +7,7 @@
 Meu nome é Ricardo, sou um profissional analítico e focado em resultados, metas e interações com equipes.
 Tenho trabalhado há alguns anos com Tecnologia .NET, Delphi e atualmente estudando React Native, ReactJS e NodeJS. Conhecimentos também de Banco de dados PostrgreSQL, Firebird e Fast Report. Boas práticas de desenvolvimento com GIT, regras de negócio e análise de requisitos. Nas horas vagas me arrisco no violão e Dota 2.
 
-## Área de interesse
+## Áreas de interesse
 Analista de negócios Jr. <br>
 Desenvolvedor - Jr. / Front-end e Back-end. <br>
 
